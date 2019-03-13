@@ -9,9 +9,9 @@ public class MadlibsOfTheAmazon {
 		// If you find yourself having to cross a piranha-infested river, here's how to do it...
 		
 		// Get the user to enter an adjective
-
+         adjective = JOptionPane.showInputDialog("Enter a adjective")
 		// Get the user to enter a type of liquid
-
+        		 liquid = JOPtionPane.show
 		// Get the user to enter a body part
 
 		// Get the user to enter a verb
