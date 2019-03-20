@@ -1,15 +1,19 @@
 package section4;
 
+import javax.swing.JOptionPane;
+
 public class QuizGame {
 	
 	public static void main(String[] args) {
 		
 		// 1.  Create a variable to hold the user's score 
+		int UserScore = 
 		
 		// 2.  Ask the user a question 
+				JOptionPane.showInputDialog("What is 1 + 1 ?")
 		
 		// 3.  Use an if statement to check if their answer is correct
-		
+		if answer = 2
 		// 4.  if the user's answer is correct
 		
 		// -- add one to their score 
